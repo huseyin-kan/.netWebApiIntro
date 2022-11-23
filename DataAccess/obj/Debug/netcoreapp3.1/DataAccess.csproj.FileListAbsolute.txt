@@ -1,0 +1,13 @@
+D:\ASP.NET\backendAgain\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\ASP.NET\backendAgain\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\ASP.NET\backendAgain\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\ASP.NET\backendAgain\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ASP.NET\backendAgain\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\ASP.NET\backendAgain\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
