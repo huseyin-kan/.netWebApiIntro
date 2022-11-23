@@ -1,0 +1,10 @@
+D:\ASP.NET\backendAgain\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\ASP.NET\backendAgain\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\ASP.NET\backendAgain\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\ASP.NET\backendAgain\Core\obj\Debug\netcoreapp3.1\Core.pdb

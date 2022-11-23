@@ -8,3 +8,6 @@ D:\ASP.NET\backendAgain\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.c
 D:\ASP.NET\backendAgain\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 D:\ASP.NET\backendAgain\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 D:\ASP.NET\backendAgain\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+D:\ASP.NET\backendAgain\Entities\bin\Debug\netcoreapp3.1\Core.dll
+D:\ASP.NET\backendAgain\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+D:\ASP.NET\backendAgain\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
