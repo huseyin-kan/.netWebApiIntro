@@ -15,7 +15,7 @@ namespace ConsoleUI1
             //    Console.WriteLine(category.CategoryName);
             //}
             ProductManager productManager= new ProductManager(new EfProductDal());
-            foreach (var productDetail in productManager.GetProductDetails())
+            foreach (var productDetail in productManager.GetProductDetails().Data)
             {
                 Console.WriteLine(productDetail.ProductName + "/" + productDetail.CategoryName);
             }
