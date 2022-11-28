@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S/9GaYvE2GX5mCyMW1oZBjsqT04LgOkuli1LGH0823VY9eZRirHu7mqVrCqVDmXun762LoYl3ljyccofuFLS7Q==",
+  "dgSpecHash": "ZILtxCxxLmkmeht/dYm5gYOlIOAtwu4smfGBO2xNmi5l7xdC9dCAClhj2kKn3qbnzzX0J92D78puxojeN8QZWw==",
   "success": true,
   "projectFilePath": "D:\\ASP.NET\\backendAgain\\ConsoleUI1\\ConsoleUI1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUAWEI\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\HUAWEI\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\HUAWEI\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\HUAWEI\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",

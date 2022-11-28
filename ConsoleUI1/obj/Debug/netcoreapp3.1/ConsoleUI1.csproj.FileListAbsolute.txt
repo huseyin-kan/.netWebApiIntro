@@ -61,3 +61,8 @@ D:\ASP.NET\backendAgain\ConsoleUI1\obj\Debug\netcoreapp3.1\ConsoleUI1.csproj.Cop
 D:\ASP.NET\backendAgain\ConsoleUI1\obj\Debug\netcoreapp3.1\ConsoleUI1.dll
 D:\ASP.NET\backendAgain\ConsoleUI1\obj\Debug\netcoreapp3.1\ConsoleUI1.pdb
 D:\ASP.NET\backendAgain\ConsoleUI1\obj\Debug\netcoreapp3.1\ConsoleUI1.genruntimeconfig.cache
+D:\ASP.NET\backendAgain\ConsoleUI1\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\ASP.NET\backendAgain\ConsoleUI1\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\ASP.NET\backendAgain\ConsoleUI1\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\ASP.NET\backendAgain\ConsoleUI1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\ASP.NET\backendAgain\ConsoleUI1\bin\Debug\netcoreapp3.1\FluentValidation.dll
