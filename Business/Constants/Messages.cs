@@ -18,5 +18,8 @@ namespace Business.Constants
         public static string UserAlreadyExists="This user is already exist";
         public static string AccessTokenCreated="Access Token Created";
         public static string UserRegistered="User registered";
+        public static string SoManyCategory="Categories are full right now";
+        public static string CategoryIsFull="This category cant take any data";
+        public static string NameAlreadyExist="This product name already exist";
     }
 }

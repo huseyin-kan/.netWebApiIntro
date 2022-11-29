@@ -82,18 +82,18 @@ namespace Business.Concrete
         private IResult CheckIfProductCountOfCategoryCorrect(int categoryId)
         {
             var result = _productDal.GetAll(p => p.CategoryId == categoryId).Count();
-            if (result >= 10)
+            if (result >= 15)
             {
-                return new ErrorResult();
+                return new ErrorResult(Messages.CategoryIsFull);
             }
             return new SuccessResult(Messages.ProductAdded);
         }
         private IResult CheckIfProductNameAlreadyExist(string productName)
         {
             var result = _productDal.GetAll(p => p.ProductName == productName).Any();
-            if (!result)
+            if (result)
             {
-                return new ErrorResult();
+                return new ErrorResult(Messages.NameAlreadyExist);
             }
             return new SuccessResult(Messages.ProductAdded);
         }
@@ -102,7 +102,7 @@ namespace Business.Concrete
             var result = _categoryService.GetAll();
             if (result.Data.Count>15)
             {
-                return new ErrorResult();
+                return new ErrorResult(Messages.SoManyCategory);
             }
             return new SuccessResult();
         }    
